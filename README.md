@@ -12,7 +12,7 @@
 You can clone the repository wherever you want. The install script will backup your current dotfiles and copy the new ones to your home folder.
 
 ```bash
-git clone https://github.com/ompemi/dotfiles.git && cd dotfiles && ./install.sh
+git clone https://github.com/ifed/dotfiles.git && cd dotfiles && ./install.sh
 ```
 
 ## Uninstall
